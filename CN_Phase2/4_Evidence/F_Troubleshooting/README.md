@@ -1,7 +1,6 @@
 # F: Troubleshooting
 
-Fault drill evidence and the diagnosis cheat sheet.
+The fault for this extension is introduced by the faculty during the evaluation, so there are no screenshots for it. This folder holds only the diagnosis cheat sheet.
 
-Expected files (names fixed once the drill is run):
-- one screenshot per injected fault, `F1_...png`, `F2_...png`, ...
-- `F_cheat_sheet.md` (DNS, IP, TCP, TLS, app: the check order)
+Expected file:
+- `F_cheat_sheet.md`: the check order (DNS, IP, TCP, TLS, app), with one command per step and what each failure looks like
